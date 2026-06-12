@@ -1,0 +1,12 @@
+
+pandas==2.1.0
+psycopg2-binary==2.9.7
+tqdm==4.66.1
+
+✅ This covers **Pandas for ETL**, **psycopg2 for PostgreSQL**, and **tqdm for progress bar**.  
+
+---
+
+If you want, I can **also add a sample `config/config.py` and `db_config.py` template** fully ready for this project, so you can run `main.py` directly without touching the code.  
+
+Do you want me to do that next?
